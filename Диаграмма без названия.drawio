@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T05:12:36.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ppYWQGikUV-x5ulSgyq6" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T05:13:51.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Rx7G12xB_ZBmSA2O-c9N" version="24.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2739" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -444,7 +444,16 @@
         <mxCell id="1kPbI1ZnsVa3C7Rc6pqd-41" value="Заполняем данные в таблице" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1kPbI1ZnsVa3C7Rc6pqd-49" value="Ищем следующего поставщика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1kPbI1ZnsVa3C7Rc6pqd-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1kPbI1ZnsVa3C7Rc6pqd-49" target="1kPbI1ZnsVa3C7Rc6pqd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-460" y="1230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-460" y="2740" />
+              <mxPoint x="-460" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1kPbI1ZnsVa3C7Rc6pqd-49" value="Продолжаем искать товар" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1kPbI1ZnsVa3C7Rc6pqd-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1kPbI1ZnsVa3C7Rc6pqd-34" target="1kPbI1ZnsVa3C7Rc6pqd-59">
