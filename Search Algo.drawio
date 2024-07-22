@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T06:38:26.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.1" etag="M5O6lnDOYn1AJC9HfdQx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T06:42:51.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MFagu_9wVC2QQextz9oi" version="24.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -44,6 +44,57 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0NX7bHHPuMrSZWpDxjzf-0" target="0NX7bHHPuMrSZWpDxjzf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-0" value="Нашли заявку" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-310" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0NX7bHHPuMrSZWpDxjzf-1" target="0NX7bHHPuMrSZWpDxjzf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-1" value="Выбор вида закупки в зависимости от сроков тендера" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-310" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-3" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-290" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-5" value="Ниша новая?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-6" value="Есть поставщик?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-7" value="Маркетплейсы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-8" value="Крупные ИМ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-9" value="Частные ИМ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-10" value="Какую маржинальность хотим?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-300" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-11" value="10%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-300" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-12" value="15%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-13" value="20%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-14" value="&amp;gt;20%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-15" value="Поставщики" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NX7bHHPuMrSZWpDxjzf-16" value="Маржинальность КП3 должна быть не менее 10%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-770" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
