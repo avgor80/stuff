@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2848" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2538" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -83,13 +83,13 @@
           <mxGeometry x="-520" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-29" value="RSS Youtube Videos Repourposing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1290" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1450" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-30" value="RSS Fragrance News Sites" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1290" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1450" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-31" value="RSS Fragrance Official Sites" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1290" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1450" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-32" value="Discoverer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1070" y="430" width="120" height="60" as="geometry" />
@@ -101,37 +101,52 @@
           <mxGeometry x="-1070" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-35" value="Top 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-910" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-910" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-36" value="Top 10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-910" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-910" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-37" value="Comparison" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-910" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-910" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-38" value="Comparison" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-38" value="Ranking (Tiers)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-910" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-39" value="PsyOp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1070" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1070" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-40" value="Fragrance as a Status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-910" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="-910" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-41" value="Fragrance as a Spiritual Experience" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-910" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="-910" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-42" value="Fragrance as a Defence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-910" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="-910" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-43" value="Fragrance as a Companion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-910" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-910" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-44" value="Astrology" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-750" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="-760" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-45" value="Fragrance as a Psy Enchancer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-910" y="1310" width="120" height="60" as="geometry" />
+          <mxGeometry x="-910" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-46" value="Rating" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-910" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-47" value="Upcoming" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1270" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-48" value="Freshly released" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1270" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-49" value="Lux Alternatives" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-930" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-50" value="Expand your Collection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-930" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
