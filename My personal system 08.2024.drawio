@@ -203,13 +203,31 @@
           <mxGeometry x="-1940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-71" value="Fragrance store - real (wordpress - yes, tilda is shit)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1940" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1940" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1940" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-72" value="Personal site" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1940" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxe3Rvk0tDnrJfnU4pzb-73" value="Blogger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1480" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-74" value="Stratosphera Capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1940" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-75" value="Tender Site" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1940" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-76" value="Social post" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2370" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-77" value="subscribe - social" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2370" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-78" value="linktree" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2370" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxe3Rvk0tDnrJfnU4pzb-79" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2370" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
